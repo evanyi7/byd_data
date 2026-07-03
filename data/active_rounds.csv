@@ -1,5 +1,5 @@
 round_id,session_id,date,time,group,aff,neg,judge,winner,rfd,status
-7/2/26_18-00_A_1,7/2/26_18-00,7/2/26,18:00,A,sabir,francis,evan,,,active
+7/2/26_18-00_A_1,7/2/26_18-00,7/2/26,18:00,A,sabir,francis,evan,francis,test,submitted
 7/2/26_18-00_A_2,7/2/26_18-00,7/2/26,18:00,A,maddy,emma,stanley,,,active
 7/2/26_18-00_A_3,7/2/26_18-00,7/2/26,18:00,A,ansh,martin,bradley,,,active
 7/2/26_18-00_A_4,7/2/26_18-00,7/2/26,18:00,A,nuha,eva,kaitlyn,,,active
